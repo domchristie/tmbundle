@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Dom Christie’s Bundle</string>
+	<key>ordering</key>
+	<array>
+		<string>E0A6DF91-C5C0-46C3-800E-00E7065C1E9F</string>
+		<string>CE8DAD29-5599-421E-918A-5A04601CAB93</string>
+	</array>
+	<key>uuid</key>
+	<string>8C9587DB-6E27-4AB7-A376-CE02CFC3124B</string>
+</dict>
+</plist>
