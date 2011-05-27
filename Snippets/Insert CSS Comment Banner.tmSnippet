@@ -10,7 +10,7 @@ ${1:${TM_SELECTED_TEXT:Banner}}
 	<key>keyEquivalent</key>
 	<string>^?</string>
 	<key>name</key>
-	<string>Insert Comment Banner</string>
+	<string>Insert CSS Comment Banner</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>uuid</key>
