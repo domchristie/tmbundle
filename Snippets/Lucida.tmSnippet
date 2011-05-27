@@ -6,6 +6,8 @@
 	<string>"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Verdana, "Helvetica Neue", Arial, Helvetica, sans-serif</string>
 	<key>name</key>
 	<string>Lucida</string>
+	<key>scope</key>
+	<string>source.css</string>
 	<key>tabTrigger</key>
 	<string>lucida</string>
 	<key>uuid</key>

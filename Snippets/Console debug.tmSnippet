@@ -3,9 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>window.console &amp;&amp; console.log($0);</string>
+	<string>window.console &amp;&amp; console.log(${1:${TM_SELECTED_TEXT:Log this}});</string>
+	<key>keyEquivalent</key>
+	<string>^L</string>
 	<key>name</key>
 	<string>Console debug</string>
+	<key>scope</key>
+	<string>source.js</string>
 	<key>tabTrigger</key>
 	<string>log</string>
 	<key>uuid</key>

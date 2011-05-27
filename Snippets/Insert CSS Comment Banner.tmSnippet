@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${TM_COMMENT_START/\s*$/ /}
+-----------------------------------------------
+${1:${TM_SELECTED_TEXT:Banner}}
+-----------------------------------------------${TM_COMMENT_END/\s*(.+)/ $1/}</string>
+	<key>keyEquivalent</key>
+	<string>^?</string>
+	<key>name</key>
+	<string>Insert Comment Banner</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>uuid</key>
+	<string>BEA1CBB6-76CA-4957-92B6-8B7B8BE21F94</string>
+</dict>
+</plist>
