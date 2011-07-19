@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>"Lucida Grande", Verdana, sans-serif</string>
+	<string>"Lucida Grande", Verdana, Tahoma, Ubuntu, sans-serif</string>
 	<key>name</key>
 	<string>Lucida</string>
 	<key>scope</key>

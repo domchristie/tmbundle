@@ -17,7 +17,7 @@ Usage
 
 Nice Lucida font-stack:
 
-    "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, Verdana, "Helvetica Neue", Arial, Helvetica, sans-serif
+    "Lucida Grande", Verdana, Tahoma, Ubuntu, sans-serif
 
 Tab trigger: `lucida`
 
